@@ -32,17 +32,9 @@ compile 'com.android.support:appcompat-v7:21.0.+'
 Download
 --------
 
-via Maven:
-```xml
-<dependency>
-  <groupId>com.ikimuhendis</groupId>
-  <artifactId>ldrawer</artifactId>
-  <version>0.1</version>
-</dependency>
-```
 or Gradle:
 ```groovy
-compile 'com.ikimuhendis:ldrawer:0.1'
+compile project':library'
 ```
 
 ![alt tag](https://raw.githubusercontent.com/IkiMuhendis/LDrawer/master/images/animated.gif)
